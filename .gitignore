@@ -12,3 +12,4 @@ coverage/
 .env
 allure-results
 build*
+.vs/
